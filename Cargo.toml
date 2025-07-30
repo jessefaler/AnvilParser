@@ -1,0 +1,9 @@
+[package]
+name = "AnvilParser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+mca = "1.1.0"
+ouroboros = "0.18.5"
+simdnbt = "0.7.1"
